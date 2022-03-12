@@ -16,10 +16,10 @@
 
 
 
-// function Addrow(){
+function Addrow(){
 
 
-// }
+}
 
 var selectedrow = null;
 function readFormdata(){
